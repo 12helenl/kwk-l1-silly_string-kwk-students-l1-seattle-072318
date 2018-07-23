@@ -19,7 +19,7 @@ phrase = "IM NOT SHOUTING"
 
 loweredcased_phrase = phrase.downcase
 
-puts "lowercased_phrase"
+puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
 

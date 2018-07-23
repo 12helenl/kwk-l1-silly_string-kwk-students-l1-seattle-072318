@@ -14,7 +14,6 @@ puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
 phrase = "IM NOT SHOUTING"
 
 loweredcased_phrase = phrase.downcase
